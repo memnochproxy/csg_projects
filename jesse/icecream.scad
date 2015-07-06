@@ -1,0 +1,17 @@
+rotate([0,45,0])scale([1,4,4])sphere(10);
+rotate([0,-45,0])scale([1,4,4])sphere(10);
+rotate([0,90,0])scale([1,4,4])sphere(10);
+rotate([0,0,0])scale([1,4,4])sphere(10);
+rotate([0,22.5,0])scale([1,4,4])sphere(10);
+rotate([0,-22.5,0])scale([1,4,4])sphere(10);
+rotate([0,67.5,0])scale([1,4,4])sphere(10);
+rotate([0,-67.5,0])scale([1,4,4])sphere(10);
+//switch
+rotate([0,0,90])scale([1,4,4])sphere(10);
+//maybe?
+rotate([0,0,45])scale([1,4,4])sphere(10);
+rotate([0,0,-45])scale([1,4,4])sphere(10);
+rotate([0,0,22.5])scale([1,4,4])sphere(10);
+rotate([0,0,-22.5])scale([1,4,4])sphere(10);
+rotate([0,0,67.5])scale([1,4,4])sphere(10);
+rotate([0,0,-67.5])scale([1,4,4])sphere(10);
